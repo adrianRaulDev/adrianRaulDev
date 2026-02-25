@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Fala Dev! Me chamo Adrian e tenho 4 anos de experiência em computação, focado em programação e desenvolvimento back-end. Me formei como Técnico em Informática no IFMA e atualmente curso Análise e Desenvolvimento de Sistemas na UEMA. Tenho conhecimento intermediário nas linguagens citadas abaixo e já participei de projetos e competições internacionais na área de robótica. Atualmente uso meu conhecimento para desenvolver projetos pessoais e buscar melhora nas minhas capacitações.</p>
+<p align="center">Fala Dev! Me chamo Adrian e tenho 4 anos de experiência em computação, focado em desenvolvimento back-end. Me formei como Técnico em Informática no IFMA (2022-2024) e atualmente curso Análise e Desenvolvimento de Sistemas na UEMA. Tenho conhecimento intermediário nas linguagens citadas abaixo e já participei de projetos e competições internacionais na área de robótica. Atualmente uso meu conhecimento para desenvolver projetos pessoais e buscar melhora nas minhas capacitações.</p>
 
 ###
 
@@ -49,16 +49,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
 </div>
 
-###
-
-<h2 align="left">Estatísticas</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianRaulDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianRaulDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=adrianRaulDev&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
