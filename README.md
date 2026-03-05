@@ -2,17 +2,13 @@
 
 ###
 
-<p align="center">Fala Dev! Me chamo Adrian e tenho 4 anos de experiência em computação, focado em desenvolvimento back-end. Me formei como Técnico em Informática no IFMA (2022-2024) e atualmente curso Análise e Desenvolvimento de Sistemas na UEMA. Tenho conhecimento intermediário nas linguagens citadas abaixo e já participei de projetos e competições internacionais na área de robótica. Atualmente uso meu conhecimento para desenvolver projetos pessoais e buscar melhora nas minhas capacitações.</p>
+<p align="center">Desenvolvedor Java Back-end em formação, graduando em Análise e Desenvolvimento de Sistemas na UEMA. Iniciei minha trajetória em 2022 no curso Técnico em Informática do IFMA, onde construí uma base sólida em lógica e desenvolvimento, participando de projetos de pesquisa e extensão acadêmica. Atualmente, foco minha atuação no desenvolvimento back-end e na construção de soluções robustas utilizando o ecossistema Java.</p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrianraul/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=adrkkj&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.instagram.com/adr.mane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:adrianraul.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -25,19 +21,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="35" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="35" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,git,github" />
+  </a>
+</p>
 
